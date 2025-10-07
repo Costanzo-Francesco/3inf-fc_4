@@ -1,2 +1,2 @@
 # 3inf-fc_4
-smt HELLO
+smt aaaa
